@@ -1,0 +1,26 @@
+Build Your Own Redis
+This project is a from-scratch implementation of Redis, built entirely in C/C++ as a learning exercise. The goal is to understand Redis internals by replicating its architecture, data structures, and command processing based on Build Your Own Redis. Through this hands-on approach, I aim to deepen my knowledge of database systems, networking, and efficient memory management.
+
+Features
+Fully replicates Redis' core functionality
+
+In-memory key-value storage
+
+Event-driven networking model
+
+Custom-built persistence mechanism
+
+Command-line interface for interaction
+
+Purpose
+This project is designed exclusively for educational purposes, providing firsthand experience in building a high-performance database system from the ground up.
+
+Roadmap
+Implement all Redis commands
+
+Optimize memory efficiency
+
+Improve performance benchmarks
+
+References
+Inspired by Build Your Own Redis.
